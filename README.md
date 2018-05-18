@@ -1,3 +1,3 @@
-## Primer reto - TRVIA
+## Primer reto - TRIVIA
 Agregue botones, quite Promps y alerts.
-![](imagen/avatar.png "Trivia")
+![](img/avatar.png "Trivia")
